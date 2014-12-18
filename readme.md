@@ -12,7 +12,11 @@ This is a simple to-do list that doesn't require user sign up. It has the basic 
 
 ### Demo Information
 
+http://screencast.com/t/nBE3QW5W
+
 ### For the TAs
+
+This is a very basic app with just two tables. I had some problems setting up the database on production. And hopefully I will get it done before Thursday.
 
 ### Outside Code
 
