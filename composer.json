@@ -10,7 +10,8 @@
   },
 	"require": {
 		"laravel/framework": "4.1.*",
-    "mcamara/laravel-localization": "0.13.*"
+    "mcamara/laravel-localization": "0.13.*",
+    "paste/pre": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
