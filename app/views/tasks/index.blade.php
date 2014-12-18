@@ -13,8 +13,8 @@
   <table class="table table-hover">
     <thead>
       <tr>
-        <th>Description</th>
-        <th>Actions</th>
+        <th>What to do next?</th>
+        <th>Finish it already!</th>
       </tr>
     </thead>
     <tbody>
