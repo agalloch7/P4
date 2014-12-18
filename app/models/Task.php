@@ -8,7 +8,7 @@ class Task extends \Eloquent {
 	];
   
   // Number of tasks per page
-  public static $per_page = 3;
+  public static $per_page = 10;
 
 	// Don't forget to fill this array
 	protected $fillable = ['title'];
