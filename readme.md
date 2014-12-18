@@ -1,7 +1,5 @@
 ## Live URL
 
-p4.yixuanli.me
-or
 p4.laylali.me
 
 I had an issue with Digital Ocean where all of my past projects are not displaying properly so I created another droplet, but it didn't seem to fix the issue. I have submitted a support ticket.
